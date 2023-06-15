@@ -1,0 +1,41 @@
+{
+  "location": {
+    "name": "Moscow",
+    "region": "Moscow City",
+    "country": "Russia",
+    "lat": 55.75,
+    "lon": 37.62,
+    "tz_id": "Europe/Moscow",
+    "localtime_epoch": 1686759443,
+    "localtime": "2023-06-14 19:17"
+  },
+  "current": {
+    "last_updated_epoch": 1686759300,
+    "last_updated": "2023-06-14 19:15",
+    "temp_c": 24,
+    "temp_f": 75.2,
+    "is_day": 1,
+    "condition": {
+      "text": "Sunny",
+      "icon": "//cdn.weatherapi.com/weather/64x64/day/113.png",
+      "code": 1000
+    },
+    "wind_mph": 13.6,
+    "wind_kph": 22,
+    "wind_degree": 20,
+    "wind_dir": "NNE",
+    "pressure_mb": 1018,
+    "pressure_in": 30.06,
+    "precip_mm": 0,
+    "precip_in": 0,
+    "humidity": 27,
+    "cloud": 0,
+    "feelslike_c": 25.1,
+    "feelslike_f": 77.2,
+    "vis_km": 10,
+    "vis_miles": 6,
+    "uv": 6,
+    "gust_mph": 11.2,
+    "gust_kph": 18
+  }
+}
